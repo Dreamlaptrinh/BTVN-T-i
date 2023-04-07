@@ -1,0 +1,79 @@
+#infor{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    gap: 10px;
+    height: 30px;
+}
+#resultSearch{
+    display: flex;
+    justify-content: space-around;
+    background-color: pink;
+    border-radius: 10px;
+    margin: 10px 20px;
+}
+#name{
+    flex: 33%;
+    margin-left: 20px;
+}
+#phone{
+    flex: 33%;
+}
+#add{
+    background-color: rgb(0, 140, 255);
+    color: white;
+    flex: 33%;
+    margin-right: 20px;
+    cursor: pointer;
+}
+#container{
+    display: flex;
+    justify-content: center;
+    height: 30px;
+    width: 100%;
+    gap:10px;
+}
+#search{
+    flex: 50%;
+    margin-left: 20px;
+}
+#find{
+    flex:7%;
+    cursor: pointer;
+}
+#clear{
+    flex:28%;
+    margin-right: 20px;
+    cursor: pointer;
+}
+button{
+    background-color: rgb(0, 140, 255);
+    color: white;
+    border-width: 1px;
+    border-radius: 5px;
+}
+input{
+    border-radius: 5px;
+    border-width: 1px;
+}
+h1{
+    display: flex;
+    justify-content: center;
+}
+#result{
+    display: flex;
+    justify-content: space-around;
+    background-color: pink;
+    border-radius: 10px;
+    margin: 10px 20px;
+}
+#resultSearch{
+    display: flex;
+    justify-content: space-around;
+    background-color: pink;
+    border-radius: 10px;
+    margin: 10px 20px;
+}
+ul{
+    padding:0;
+}
